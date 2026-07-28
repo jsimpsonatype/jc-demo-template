@@ -78,7 +78,7 @@
     "angular-eslint": "^22.1.0",
     "esbuild-visualizer": "^0.7.0",
     "eslint": "^9.33.0",
-    "jsdom": "^29.1.1",
+    "jsdom": "^30.0.0",
     "stylelint": "^16.10.0",
     "stylelint-config-sass-guidelines": "^12.1.0",
     "stylelint-scss": "^6.0.0",
